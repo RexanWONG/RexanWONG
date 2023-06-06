@@ -6,7 +6,6 @@ I am currently studying at **Hong Kong International School**
 
 * 🇭🇰  I'm based in Hong Kong
 * ✉️  You can contact me at [rexanwong@gmail.com](mailto:rexanwong@gmail.com)
-* 🇭🇰  I'm based in Hong Kong 
 * 🧠  I'm a huge fan of blockchain technology and Web3
 * 🏆  Apple Swift Student Challenge / WWDC23 Scholar
 * 🧩  Building cool stuff for fun :)
