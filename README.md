@@ -9,7 +9,7 @@ I am currently studying at **Hong Kong International School**
 * 🧠 Main interests : Blockchain, Web3, AI
 * 💻 4x Hackathon Winner
 * 🏆 Apple Swift Student Challenge / WWDC23 Scholar
-* 🧩 Occasionally building cool stuff 
+* 🧩 Occasionally building cool stuff!
 
 ### [My Website 💻](https://www.linktr.ee/rexanwong)
 
