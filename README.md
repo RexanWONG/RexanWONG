@@ -10,7 +10,7 @@ I am currently studying at **Hong Kong International School**
 * 💻 4x Hackathon Winner
 * 🏆 Apple Swift Student Challenge / WWDC23 Scholar
 * 🧩 Occasionally building cool stuff!
-
+ 
 ### [My Website 💻](https://www.linktr.ee/rexanwong)
 
 ---
