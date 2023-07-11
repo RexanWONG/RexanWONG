@@ -5,10 +5,9 @@
 I am currently studying at **Hong Kong International School** 
 
 * 🇭🇰 I'm based in Hong Kong
-* ✉️  You can contact me at [rexanwong@gmail.com](mailto:rexanwong@gmail.com)
 * 🧠 Main interests : Blockchain, Web3, AI
-* 💻 4x Hackathon Winner
 * 🏆 Apple Swift Student Challenge / WWDC23 Scholar
+* 💻 4x Hackathon Winner
 * 🧩 Occasionally building cool stuff!
  
 ### [My Website 💻](https://www.linktr.ee/rexanwong)
