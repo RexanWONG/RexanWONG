@@ -40,6 +40,18 @@ I am currently studying at **Hong Kong International School**
 
 # Hackathons 
 
+So far, I have won 5 hackathons in the past
+
+* 🏆 Mina Protocol X Developer Dao first place Grand Prize winner
+Repo : <a href="https://www.github.com/rexanwong/zk-protest" target="_blank" rel="noreferrer" />
+  * Online hackathon hosted by Mina Protocol and Developer Dao
+  * Focused on building zero-knowledge applications on Mina Protocol with SnarkyJS
+  * My project won first place of the Grand Prize award, the best overall project
+  * I built a privacy-focused decentralized zkApp that aims to enable anonymous and secure protests where participants can join and support various causes while preserving their privacy.
+    
+
+
+
 # Socials
 
 <p align="left"> <a href="https://www.twitter.com/rexan_wong" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/rexanwonger" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rexan-wong-5522b7214/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
