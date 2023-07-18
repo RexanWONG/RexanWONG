@@ -40,9 +40,9 @@ I am currently studying at **Hong Kong International School**
 
 # Hackathons 
 
-So far, I have won 5 hackathons in the past
+So far, I have won awards at 5 hackathons in the past
 
-## 🏆🥇 **Mina Protocol X Developer Dao first place Grand Prize winner**
+## 🏆 **Mina Protocol X Developer Dao - First Place Grand Prize winner**
   
   * <a href="https://www.github.com/rexanwong/zk-protest" target="_blank" rel="noreferrer">Github Repo</a>
   * <a href="https://twitter.com/rexan_wong/status/1681156987143462912" target="_blank" rel="noreferrer">Twitter Announcement</a>
@@ -51,8 +51,16 @@ So far, I have won 5 hackathons in the past
   * My project won first place of the Grand Prize award, the best overall project
   * I built a privacy-focused decentralized zkApp that aims to enable anonymous and secure protests where participants can join and support various causes while preserving their privacy.
     
+## 🥇🥇 **ETHGlobal Waterloo - Best Use of Metamask SDK & Polygon Pool Prize**
 
+  * <a href="https://ethglobal.com/showcase/videre-wk314" target="_blank" rel="noreferrer">Project Details</a>
+  * <a href="https://www.github.com/rexanwong/videre" target="_blank" rel="noreferrer">Github Repo</a>
+  * In person hackathon at Waterloo, CA, hosted by ETHGlobal
+  * Focused on building Ethereum based applications with different bounties' tools and technologies
+  * Worked with 2 University of Waterloo students, our project won the Best Use of Metamask SDK & Polygon Pool Prize 
+  * We built a Video-sharing platform powered by ERC-6551 tokenbound-accounts, empowering the content creator economy through advertisers' staking in smart contracts.
 
+---
 
 # Socials
 
