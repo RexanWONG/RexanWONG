@@ -40,7 +40,7 @@ I am currently studying at **Hong Kong International School**
 
 # 🏆 Hackathons + awards
 
-Here is a list of the prizes that I won in hackathon and coding related competitions in the past : 
+Here is a list featuring some of the prizes and awards that I won in hackathon and coding related competitions in the past : 
 
 ## 🥇 **Mina Protocol X Developer Dao - First Place Grand Prize winner**
   
