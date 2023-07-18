@@ -60,6 +60,15 @@ So far, I have won awards at 5 hackathons in the past
   * Worked with 2 University of Waterloo students, our project won the Best Use of Metamask SDK & Polygon Pool Prize 
   * We built a Video-sharing platform powered by ERC-6551 tokenbound-accounts, empowering the content creator economy through advertisers' staking in smart contracts.
 
+## 🥇 **CISxIdeas - Microsoft Selected Winner**
+
+  * <a href="https://www.github.com/rexanwong/synthesis" target="_blank" rel="noreferrer">Github Repo</a>
+  * Online hackathon hosted by the Chinese International School, sponsored by Microsoft
+  * Focused on building around the topic of how Artifical Intelligence can be used to solve problems related to sustainability. 
+  * My project won the Microsoft Selected Winner award
+  * One of the problems related to sustainability is the lack of education among the general public about the topic.  So I built an AI video generator that generates videos about sustainability topics. 
+
+
 ---
 
 # Socials
