@@ -38,11 +38,11 @@ I am currently studying at **Hong Kong International School**
 
 ---
 
-# Hackathons 
+# Hackathons 🏆
 
 So far, I have won awards at 5 hackathons in the past
 
-## 🏆 **Mina Protocol X Developer Dao - First Place Grand Prize winner**
+## **Mina Protocol X Developer Dao - First Place Grand Prize winner**
   
   * <a href="https://www.github.com/rexanwong/zk-protest" target="_blank" rel="noreferrer">Github Repo</a>
   * <a href="https://twitter.com/rexan_wong/status/1681156987143462912" target="_blank" rel="noreferrer">Twitter Announcement</a>
