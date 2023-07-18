@@ -43,7 +43,7 @@ I am currently studying at **Hong Kong International School**
 So far, I have won 5 hackathons in the past
 
 * 🏆 Mina Protocol X Developer Dao first place Grand Prize winner
-Repo : <a href="https://www.github.com/rexanwong/zk-protest" target="_blank" rel="noreferrer" />
+Repo : <a href="https://www.github.com/rexanwong/zk-protest" target="_blank" rel="noreferrer"></a>
   * Online hackathon hosted by Mina Protocol and Developer Dao
   * Focused on building zero-knowledge applications on Mina Protocol with SnarkyJS
   * My project won first place of the Grand Prize award, the best overall project
