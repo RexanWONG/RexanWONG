@@ -53,8 +53,8 @@ Here is a list featuring some of the prizes and awards that I won in hackathon a
     
 ## 🥇🥇 **ETHGlobal Waterloo - Best Use of Metamask SDK & Polygon Pool Prize**
 
-  * <a href="https://ethglobal.com/showcase/videre-wk314" target="_blank" rel="noreferrer">Project Details</a>
   * <a href="https://www.github.com/rexanwong/videre" target="_blank" rel="noreferrer">Github Repo</a>
+  * <a href="https://ethglobal.com/showcase/videre-wk314" target="_blank" rel="noreferrer">Project Details</a>
   * In person hackathon at Waterloo, CA, hosted by ETHGlobal
   * Focused on building Ethereum based applications with different bounties' tools and technologies
   * Worked with 2 University of Waterloo students, our project won the Best Use of Metamask SDK & Polygon Pool Prize 
