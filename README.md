@@ -1,6 +1,6 @@
 # About Me 
    
-> My name is Rexan. I am a **full-stack blockchain and ai developer**.  I'm currently 15 years old, in my sophomore year of high school.
+> My name is Rexan. I am a **full-stack blockchain and ai developer**.  I'm currently 15 years old, in my junior year of high school.
 
 I am currently studying at **Hong Kong International School** 
 
