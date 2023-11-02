@@ -55,7 +55,7 @@ I am currently studying at **Hong Kong International School**
 </details>
 
 <details>
-<summary><b>🥇 ETHGlobal Online - Finalist & Mantle Best UX</b></summary>
+<summary><b>🥇🥇 ETHGlobal Online - Finalist & Mantle Best UX</b></summary>
 <p>
 
 - [Github Repo](https://www.github.com/rexanwong/koinu)
