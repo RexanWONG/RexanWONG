@@ -5,7 +5,7 @@
 I am currently studying at **Hong Kong International School** 
 
 * 🇭🇰 I'm based in Hong Kong 
-* 🧠 Main interests : Blockchain, Web3, AI
+* 🧠 Main interests : SaaS, Blockchain, Web3, AI
 * 👋 I'm an ambassador for <a href="https://thirdweb.com/" target="_blank" rel="noreferrer">Thirdweb</a>
 * 🏆 Apple Swift Student Challenge / WWDC23 Scholar
 * 💻 5x Hackathon Winner
