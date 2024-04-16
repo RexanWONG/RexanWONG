@@ -1,14 +1,12 @@
 # About Me 
    
-> Hey, my name is Rexan!
+> Hey, my name is Rexan!  I'm currently a junior at **Hong Kong International School** 
 
-I'm currently a junior at **Hong Kong International School** 
-
-• 🔨 building <a href="https://twitter.com/videofastgg" target="_blank" rel="noreferrer">VideoFast (out soon!)</a> 
-• 🏆 5x hackathon winner, including : 
-•• ETHGlobal Online finalist   
-•• Apple Swift Student Challenge scholar 
-•👋 ambassador for <a href="https://thirdweb.com" target="_blank" rel="noreferrer">Thirdweb</a> 
+- 🔨 Building [VideoFast (out soon!)](https://twitter.com/videofastgg)
+- 🏆 5x hackathon winner, including:
+  - ETHGlobal Online finalist
+  - Apple Swift Student Challenge scholar
+- 👋 Ambassador for [Thirdweb](https://thirdweb.com)
 
 
  
