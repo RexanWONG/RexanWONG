@@ -1,15 +1,16 @@
 # About Me 
    
-> My name is Rexan. I am a **full-stack blockchain and ai developer**.  I'm currently 16 years old, in my junior year of high school.
+> Hey, my name is Rexan!
 
-I am currently studying at **Hong Kong International School** 
+I'm currently a junior at **Hong Kong International School** 
 
-* 🇭🇰 I'm based in Hong Kong 
-* 🧠 Main interests : SaaS, Blockchain, Web3, AI
-* 👋 I'm an ambassador for <a href="https://thirdweb.com/" target="_blank" rel="noreferrer">Thirdweb</a>
-* 🏆 Apple Swift Student Challenge / WWDC23 Scholar
-* 💻 5x Hackathon Winner
-* 🧩 Occasionally building cool stuff!
+🔨 building <a href="https://twitter.com/videofastgg" target="_blank" rel="noreferrer">VideoFast (out soon!)</a> 
+🏆 5x hackathon winner, including : 
+• ETHGlobal Online finalist   
+• Apple Swift Student Challenge scholar 
+👋 ambassador for <a href="https://thirdweb.com" target="_blank" rel="noreferrer">Thirdweb</a> 
+
+
  
 ### [My Website 💻](https://www.linktr.ee/rexanwong)
 
