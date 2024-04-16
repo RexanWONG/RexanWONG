@@ -4,11 +4,11 @@
 
 I'm currently a junior at **Hong Kong International School** 
 
-🔨 building <a href="https://twitter.com/videofastgg" target="_blank" rel="noreferrer">VideoFast (out soon!)</a> 
-🏆 5x hackathon winner, including : 
-• ETHGlobal Online finalist   
-• Apple Swift Student Challenge scholar 
-👋 ambassador for <a href="https://thirdweb.com" target="_blank" rel="noreferrer">Thirdweb</a> 
+• 🔨 building <a href="https://twitter.com/videofastgg" target="_blank" rel="noreferrer">VideoFast (out soon!)</a> 
+• 🏆 5x hackathon winner, including : 
+•• ETHGlobal Online finalist   
+•• Apple Swift Student Challenge scholar 
+•👋 ambassador for <a href="https://thirdweb.com" target="_blank" rel="noreferrer">Thirdweb</a> 
 
 
  
