@@ -9,6 +9,7 @@
 - 👋 Ambassador for [Thirdweb](https://thirdweb.com)
 
 
+I post about [my projects, tech, and other interesting stuff on Twitter (X)](https://twitter.com/rexan_wong).  Feel free to check it out, don't hesitate to reach out!
  
 ### [My Website 💻](https://www.linktr.ee/rexanwong)
 
