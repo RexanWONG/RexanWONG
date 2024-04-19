@@ -1,4 +1,4 @@
-# About Me 
+# About Me  
    
 > Hey, my name is Rexan!  I'm currently a junior at **Hong Kong International School** 
 
